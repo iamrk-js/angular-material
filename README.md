@@ -46,8 +46,6 @@ The application is visible at port 4200: [http://localhost:4200](http://localhos
 
 Note: **make sure to use command npm start and not ng serve, as npm start adds a couple extra options that are needed for our project **
 
-# Other Courses
 
-# Other Courses
 
 
